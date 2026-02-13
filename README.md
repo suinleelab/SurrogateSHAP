@@ -2,6 +2,8 @@
 
 Code repository for **SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models**.
 
+[[arXiv]](https://arxiv.org/abs/2601.22276)
+
 ## Overview
 
 This repository provides a framework for data contributor attribution in generative models across three distinct settings: Class-Conditional Diffusion (DDPM on CIFAR-20), Latent Diffusion (Stable Diffusion on ArtBench), and Rectified Flow Transformers (FLUX.1-dev on Fashion-Product).
