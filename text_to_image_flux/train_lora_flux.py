@@ -83,7 +83,6 @@ if is_wandb_available():
 # check_min_version("0.37.0.dev0")
 
 logger = get_logger(__name__)
-login("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")
 
 def load_text_encoders(class_one, class_two):
     text_encoder_one = class_one.from_pretrained(
